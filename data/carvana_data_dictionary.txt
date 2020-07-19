@@ -1,0 +1,11 @@
+Field Name 	Definition
+Auction 	Auction provider at which the  vehicle was purchased
+VehicleAge 	The Years elapsed since the manufacturer's year
+Make 	Vehicle Manufacturer 
+Color 	Vehicle Color
+WheelType 	"The vehicle wheel type description (Alloy, Covers)"
+VehOdo 	The vehicles odometer reading
+Size 	"The size category of the vehicle (Compact, SUV, etc.)"
+MMRAcquisitionAuctionAveragePrice 	Acquisition price for this vehicle in average condition at time of purchase 
+MMRAcquisitionRetailAveragePrice 	Acquisition price for this vehicle in the retail market in average condition at time of purchase
+IsBadBuy 	Identifies if the kicked vehicle was an avoidable purchase 
